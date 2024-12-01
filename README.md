@@ -57,8 +57,8 @@ Here are some of my recent and notable projects:
 ---
 
 ### 📊 GitHub Stats
-![somaraj's Stats](https://github-readme-stats.vercel.app/api?username=somaraj&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-![somaraj's Streak](https://github-readme-streak-stats.herokuapp.com/?user=somaraj&theme=vue-dark&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api?username=somaraj&show_icons=true&include_all_commits=true&count_private=true&theme=vue-dark&layout=compact" alt="GitHub Stats for Somaraj" width="700">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=somaraj&theme=vue-dark" width="700">
 
 ---
 
