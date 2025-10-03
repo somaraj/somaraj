@@ -42,7 +42,7 @@
 ### 🌟 Projects
 Here are some of my recent and notable projects:
 
-1. **[Backlog](https://github.com/somaraj/backlog)**  
+1. **[Taskist](https://github.com/taskist)**  
    *Description*: A simple issue tracking system built with ASP.NET Core and EF Core.  
    *Highlights*: Generic patterin, custom authentication, RESTful APIs, and a clean, responsive UI.
 
