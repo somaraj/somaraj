@@ -5,6 +5,8 @@
 [![Website](https://img.shields.io/badge/somaraj.com-111111?logo=googlechrome&logoColor=white)](https://somaraj.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/nsomaraj)
 [![X](https://img.shields.io/badge/@nsomaraj-000000?logo=x&logoColor=white)](https://x.com/nsomaraj)
+[![dev.to](https://img.shields.io/badge/dev.to-0A0A0A?logo=devdotto&logoColor=white)](https://dev.to/nsomaraj)
+[![Medium](https://img.shields.io/badge/Medium-000000?logo=medium&logoColor=white)](https://medium.com/@somaraj)
 [![Contact](https://img.shields.io/badge/Get_in_touch-D14836?logo=maildotru&logoColor=white)](https://somaraj.com/contact.html)
 
 ---
@@ -40,6 +42,12 @@
 | **[Facebook ASP.NET Webhook](https://github.com/somaraj/Facebook-ASP.NET-Webhook)** | Receive Facebook Lead Ads in real time with ASP.NET Web API and Graph API webhooks. | ![Stars](https://img.shields.io/github/stars/somaraj/Facebook-ASP.NET-Webhook?style=flat-square) |
 
 More at **[somaraj.com/work](https://somaraj.com/work.html)**.
+
+---
+
+### ✍️ Writing
+- [Building a TickTick extension for Visual Studio: five API surprises](https://dev.to/nsomaraj/building-a-ticktick-extension-for-visual-studio-five-api-surprises-eme) · dev.to
+- [Taskist: an open-source task, bug & change request management system](https://medium.com/@somaraj/taskist-an-open-source-task-bug-change-request-management-system-a4453c3ac975) · Medium
 
 ---
 
