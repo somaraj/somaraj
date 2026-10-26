@@ -1,71 +1,79 @@
-# Hi there 👋, I'm Somaraj!
+# Hi, I'm Somaraj 👋
 
-🌐 **Web Developer | .NET Specialist | Open Source Enthusiast**
+**.NET developer building tools that live where you work.** Visual Studio extensions, browser extensions and open-source ASP.NET Core apps.
 
-
+[![Website](https://img.shields.io/badge/somaraj.com-111111?logo=googlechrome&logoColor=white)](https://somaraj.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/nsomaraj)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/nsomaraj)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![X](https://img.shields.io/badge/@nsomaraj-000000?logo=x&logoColor=white)](https://x.com/nsomaraj)
+[![Contact](https://img.shields.io/badge/Get_in_touch-D14836?logo=maildotru&logoColor=white)](https://somaraj.com/contact.html)
 
 ---
 
-### 🚀 About Me
-- 👨‍💻 I'm a passionate web developer with expertise in **.NET technologies**, including ASP.NET Core, C#, and Entity Framework.
-- 💡 I enjoy solving complex problems and building scalable, high-performance web applications.
-- 🌱 Currently exploring **cloud development** with Azure and microservices architecture.
-- 👥 Actively contributing to **open-source projects** and collaborating with the developer community.
+### About me
+- 🛠️ I build small, focused tools that sit inside the editor and the browser, so you don't have to switch context.
+- 💼 My day-to-day is **C# / ASP.NET Core / EF Core / SQL Server**, plus JavaScript for browser extensions.
+- 🌱 Right now I'm working on task-manager integrations for Visual Studio and on **Taskist**, a self-hosted issue tracker on .NET 10.
 
 ---
 
-### 🛠️ Technologies & Tools
-- **Languages**: C#, JavaScript, TypeScript, SQL
-- **Frameworks**: ASP.NET Core, Entity Framework, Blazor
-- **Tools**: Visual Studio, VS Code, Docker, Git, Postman
-- **Cloud**: Azure, AWS
-- **Databases**: SQL Server, MySql, PostgreSQL, MongoDB
-- **Other**: REST APIs, GraphQL, Microservices
+### 🧩 Visual Studio extensions
 
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+| Extension | What it does | Get it |
+|---|---|---|
+| **[Todoist for Visual Studio](https://somaraj.com/work/todoist-for-visual-studio/)** | Your Todoist tasks inside Visual Studio. Browse, add and complete tasks, and turn selected code into a task. | [![VS Marketplace](https://img.shields.io/badge/VS_Marketplace-5C2D91?logo=visualstudio&logoColor=white)](https://marketplace.visualstudio.com/items?itemName=Somaraj.todoist-for-visual-studio) |
+| **[TickTick for Visual Studio](https://somaraj.com/work/ticktick-for-visual-studio/)** *(preview)* | Your TickTick lists inside Visual Studio, with quick add and plain-text due dates. | [![VS Marketplace](https://img.shields.io/badge/VS_Marketplace-5C2D91?logo=visualstudio&logoColor=white)](https://marketplace.visualstudio.com/items?itemName=Somaraj.ticktick-for-visual-studio) |
+
+### 🌐 Browser extensions
+
+| Extension | What it does | Get it |
+|---|---|---|
+| **[Bookmark +](https://somaraj.com/work/bookmark-plus/)** | Bookmarks for people who keep everything: nested colour-coded folders, smart tags, instant search. | [![Chrome](https://img.shields.io/badge/Chrome-4285F4?logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/bookmark-+/iohjnomobdieobhenffbeinlmdcnbafi) [![Edge](https://img.shields.io/badge/Edge-0078D7?logo=microsoftedge&logoColor=white)](https://microsoftedge.microsoft.com/addons/detail/bookmark-/lljieackmjdanfojeebgojnhkdlmhcpa) [![Firefox](https://img.shields.io/badge/Firefox-FF7139?logo=firefoxbrowser&logoColor=white)](https://addons.mozilla.org/firefox/addon/bookmark_plus/) |
+| **[Focus Gate](https://somaraj.com/work/focusgate/)** | A gatekeeper for your attention. Focus Tasks that allow only the sites you need. | [![Chrome](https://img.shields.io/badge/Chrome-4285F4?logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/focusgate/jkanjhjbegickcdbmegbhcdjnnbnmjke) [![Edge](https://img.shields.io/badge/Edge-0078D7?logo=microsoftedge&logoColor=white)](https://microsoftedge.microsoft.com/addons/detail/focusgate/okcbnlbknidgpcppjblhfpepohldhpap) |
+| **[Insta Open](https://somaraj.com/work/insta-open/)** | Full-resolution Instagram images with one Ctrl+Click. | [![Edge](https://img.shields.io/badge/Edge-0078D7?logo=microsoftedge&logoColor=white)](https://microsoftedge.microsoft.com/addons/detail/insta-open/decdaoibipmkafmoiakcfpejbanedekg) |
+
+### 📦 Open source
+
+| Project | What it does | Links |
+|---|---|---|
+| **[Taskist](https://github.com/Taskist/taskist)** | A self-hosted task, change request and bug tracker for teams. ASP.NET Core MVC on .NET 10, EF Core, SQL Server. | [Website](https://taskist.org) · [Live demo](https://demo.taskist.org) |
+| **[AdminLTE VS Template](https://github.com/somaraj/AdminLTE-VS-Template)** | AdminLTE 3 project templates for Visual Studio: File → New Project with the dashboard layout already wired in. | ![Stars](https://img.shields.io/github/stars/somaraj/AdminLTE-VS-Template?style=flat-square) |
+| **[Facebook ASP.NET Webhook](https://github.com/somaraj/Facebook-ASP.NET-Webhook)** | Receive Facebook Lead Ads in real time with ASP.NET Web API and Graph API webhooks. | ![Stars](https://img.shields.io/github/stars/somaraj/Facebook-ASP.NET-Webhook?style=flat-square) |
+
+More at **[somaraj.com/work](https://somaraj.com/work.html)**.
+
+---
+
+### Tech I use
+
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/-ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![Entity Framework](https://img.shields.io/badge/-Entity_Framework-68217A?style=flat-square&logo=dotnet&logoColor=white)
+![Entity Framework](https://img.shields.io/badge/-EF_Core-68217A?style=flat-square&logo=dotnet&logoColor=white)
+![Blazor](https://img.shields.io/badge/-Blazor-512BD4?style=flat-square&logo=blazor&logoColor=white)
+![SQL Server](https://img.shields.io/badge/-SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![SQL Server](https://img.shields.io/badge/-SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
-![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![VS Extensibility](https://img.shields.io/badge/-VSIX-5C2D91?style=flat-square&logo=visualstudio&logoColor=white)
+![Manifest V3](https://img.shields.io/badge/-Manifest_V3-4285F4?style=flat-square&logo=googlechrome&logoColor=white)
+![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/-Visual_Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
 ---
 
-### 🌟 Projects
-Here are some of my recent and notable projects:
+### 📊 GitHub stats
 
-1. **[Taskist](https://github.com/taskist)**  
-   *Description*: A simple issue tracking system built with ASP.NET Core and EF Core.  
-   *Highlights*: Generic patterin, custom authentication, RESTful APIs, and a clean, responsive UI.
-
-2. **[Facebook-ASP.NET-Webhook](https://github.com/somaraj/Facebook-ASP.NET-Webhook)**  
-   *Description*: Retrieving facebook leads using ASP.NET Web API and Graph API Webhooks.  
-   *Highlights*: ASP.NET way of retrieving Facebook Lead Ad data, webhook.
-
-3. **[Todoist Quick Capture](https://github.com/somaraj/todoist-quick-capture)**  
-   *Description*: Quick capture is a tiny utility to create task from anywhere and anytime by just hitting the assigned global hot key!  
-   *Highlights*: Windows application, launch on global shortcut key.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=somaraj&show_icons=true&include_all_commits=true&count_private=true&theme=vue-dark&layout=compact">
+  <img src="https://github-readme-stats.vercel.app/api?username=somaraj&show_icons=true&include_all_commits=true&count_private=true&theme=vue&layout=compact" alt="GitHub stats for Somaraj" height="165">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=somaraj&theme=vue-dark">
+  <img src="https://streak-stats.demolab.com?user=somaraj&theme=vue" alt="GitHub streak for Somaraj" height="165">
+</picture>
 
 ---
 
-### 📊 GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=somaraj&show_icons=true&include_all_commits=true&count_private=true&theme=vue-dark&layout=compact" alt="GitHub Stats for Somaraj" width="700">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=somaraj&theme=vue-dark" width="700">
-
----
-
-### 🌟 Fun Fact
-When I'm not coding, you’ll find me contributing to open-source, exploring new tech, or playing my favorite video games. 🎮
-
----
-
-### 💻 Open to Collaborate!
-I'm always excited to collaborate on challenging projects and meaningful open-source contributions. Feel free to reach out!
+### 🤝 Let's talk
+Have an idea for an extension, found a bug in one of mine, or want to collaborate on something open source? **[Get in touch](https://somaraj.com/contact.html)**.
