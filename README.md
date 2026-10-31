@@ -14,7 +14,7 @@
 ### About me
 - 🛠️ I build small, focused tools that sit inside the editor and the browser, so you don't have to switch context.
 - 💼 My day-to-day is **C# / ASP.NET Core / EF Core / SQL Server**, plus JavaScript for browser extensions.
-- 🌱 Right now I'm working on task-manager integrations for Visual Studio and on **Taskist**, a self-hosted issue tracker on .NET 10.
+- 🌱 Right now I'm working on task-manager integrations for Visual Studio, **Notion Quick Capture** (a cross-platform desktop app), and **Taskist**, a self-hosted issue tracker on .NET 10.
 
 ---
 
@@ -23,7 +23,7 @@
 | Extension | What it does | Get it |
 |---|---|---|
 | **[Todoist for Visual Studio](https://somaraj.com/work/todoist-for-visual-studio/)** | Your Todoist tasks inside Visual Studio. Browse, add and complete tasks, and turn selected code into a task. | [![VS Marketplace](https://img.shields.io/badge/VS_Marketplace-5C2D91?logo=visualstudio&logoColor=white)](https://marketplace.visualstudio.com/items?itemName=Somaraj.todoist-for-visual-studio) |
-| **[TickTick for Visual Studio](https://somaraj.com/work/ticktick-for-visual-studio/)** *(preview)* | Your TickTick lists inside Visual Studio, with quick add and plain-text due dates. | [![VS Marketplace](https://img.shields.io/badge/VS_Marketplace-5C2D91?logo=visualstudio&logoColor=white)](https://marketplace.visualstudio.com/items?itemName=Somaraj.ticktick-for-visual-studio) |
+| **[TickTick for Visual Studio](https://somaraj.com/work/ticktick-for-visual-studio/)** | Your TickTick lists inside Visual Studio, with quick add and plain-text due dates. | [![VS Marketplace](https://img.shields.io/badge/VS_Marketplace-5C2D91?logo=visualstudio&logoColor=white)](https://marketplace.visualstudio.com/items?itemName=Somaraj.ticktick-for-visual-studio) |
 
 ### 🌐 Browser extensions
 
@@ -37,6 +37,7 @@
 
 | Project | What it does | Links |
 |---|---|---|
+| **[Notion Quick Capture](https://github.com/somaraj/notion-quick-capture)** | Capture notes to Notion from anywhere. A global shortcut opens a capture panel; type in Markdown and it lands in your Notion page or database. Works offline. Tray app for Windows, macOS and Linux. | [Project page](https://somaraj.com/work/notion-quick-capture/) |
 | **[Taskist](https://github.com/Taskist/taskist)** | A self-hosted task, change request and bug tracker for teams. ASP.NET Core MVC on .NET 10, EF Core, SQL Server. | [Website](https://taskist.org) · [Live demo](https://demo.taskist.org) |
 | **[AdminLTE VS Template](https://github.com/somaraj/AdminLTE-VS-Template)** | AdminLTE 3 project templates for Visual Studio: File → New Project with the dashboard layout already wired in. | ![Stars](https://img.shields.io/github/stars/somaraj/AdminLTE-VS-Template?style=flat-square) |
 | **[Facebook ASP.NET Webhook](https://github.com/somaraj/Facebook-ASP.NET-Webhook)** | Receive Facebook Lead Ads in real time with ASP.NET Web API and Graph API webhooks. | ![Stars](https://img.shields.io/github/stars/somaraj/Facebook-ASP.NET-Webhook?style=flat-square) |
@@ -62,6 +63,8 @@ More at **[somaraj.com/work](https://somaraj.com/work.html)**.
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Electron](https://img.shields.io/badge/-Electron-47848F?style=flat-square&logo=electron&logoColor=white)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
 ![VS Extensibility](https://img.shields.io/badge/-VSIX-5C2D91?style=flat-square&logo=visualstudio&logoColor=white)
 ![Manifest V3](https://img.shields.io/badge/-Manifest_V3-4285F4?style=flat-square&logo=googlechrome&logoColor=white)
 ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
